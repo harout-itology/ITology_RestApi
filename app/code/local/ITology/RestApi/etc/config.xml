@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<config>
+    <modules>
+        <ITology_RestApi>
+            <version>1.0.0</version>
+        </ITology_RestApi>
+    </modules>
+    <global>
+        <models>
+            <extendrestapi>
+                <class>ITology_RestApi_Model</class>
+            </extendrestapi>
+        </models>
+    </global>
+</config>

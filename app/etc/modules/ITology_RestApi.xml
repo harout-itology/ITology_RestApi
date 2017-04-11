@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+
+<!--
+/**
+ * ITology_RestApi for Magento
+ *
+ * @package     ITology_RestApi
+ * @author      ITology (https://itology.org/)
+ * @copyright   Copyright 2017 Itology
+ * @license     Open Software License
+ */
+-->
+
+
+<config>
+  <modules>
+    <ITology_RestApi>
+      <active>true</active>
+      <codePool>local</codePool>
+    </ITology_RestApi>
+  </modules>
+</config>
